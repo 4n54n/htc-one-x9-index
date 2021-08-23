@@ -28,7 +28,6 @@ fastboot oem get_identifier_token # use in bootloader mode
 
 submit generated code in https://www.htcdev.com/
 a mail with unlock code will receive
-Unlock_code.bin backed up on g-drive
 
 #Username: Book
 #Password: Book
