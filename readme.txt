@@ -1,4 +1,6 @@
-about : I tried to flash kali nethunter into my htc-one x9. (:
+
+
+ABOUT : I tried to flash kali nethunter into my htc-one x9. (:
 
 step 1 : unlock bootloader
 step 2 : flash TWRP
